@@ -147,7 +147,8 @@
                     </textPath>
                 </text>
 
-                </svg>
+                </svg><br>
+                <a href="https://github.com/johnpaulmaja/svg-text-art" target="_blank">Github Link here!</a>
         </wrapper>
     </body>
 </html> <!--Credits goes to: John Paul Maja-->
